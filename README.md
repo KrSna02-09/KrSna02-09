@@ -16,7 +16,7 @@ Building web experiences · Automating everything · Always learning
 
 ## About Me
 
-Currently deepening my skills in **Web Development & DevOps**.  
+Currently deepening my skills in **Python Full Development & DevOps**.  
 I love building full-stack apps and exploring cloud infrastructure.
 
 📫 Reach me at [singhkrishnaumeshchandra@gmail.com](mailto:singhkrishnaumeshchandra@gmail.com)  
