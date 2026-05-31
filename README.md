@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="left">
 
-# Krishna Singh
+# 👋 Hey I'm Krishna Singh
 
 **QA Engineer & DevOps Enthusiast**  
  Tester · Automating everything · Cloud Infrastructure · Always learning
