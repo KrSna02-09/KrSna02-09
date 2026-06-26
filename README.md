@@ -19,7 +19,7 @@
 Currently deepening my skills in **QA Enginner & DevOps**.  
 I love building Automation Scripts For Testing and Exploring Cloud Infrastructure.
 
-📫 Reach me at [singhkrishnaumeshchandra@gmail.com](mailto:singhkrishnaumeshchandra@gmail.com)  
+📫 Reach me at [krishna02092004@gmail.com](mailto:krishna02092004@gmail.com)  
 📍 Based in Mumbai, India · Open to QA Engineer & DevOps opportunities
 
 ---
