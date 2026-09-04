@@ -1,12 +1,13 @@
+
 <!-- Header -->
 <div align="left">
 
-# 👋 Hey I'm Krishna Singh
+# 👋 Hey, I'm Krishna Singh
 
-**QA Engineer & DevOps Enthusiast**  
- Tester · Automating everything · Cloud Infrastructure · Always learning
+**Python Developer | DevOps Enthusiast**  
+Building Backend Applications · Automating Workflows · Cloud Infrastructure · Always Learning
 
-![QA Engineer](https://img.shields.io/badge/-QA_Engineer-blue)
+![Python Developer](https://img.shields.io/badge/-Python_Developer-blue)
 ![DevOps](https://img.shields.io/badge/-DevOps-blue)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-378ADD?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
 
@@ -14,29 +15,66 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
+I am actively developing my skills as a **Python Developer**, with a focus on **Python, Django, Backend Development, REST APIs, SQL, and Database Management**.
 
-Currently deepening my skills in **QA Enginner & DevOps**.  
-I love building Automation Scripts For Testing and Exploring Cloud Infrastructure.
+Alongside Development, I am interested in **DevOps, Automation, CI/CD, Cloud Infrastructure, and AWS**.
+
+- 🔍 QA Engineer with experience in Manual Testing and API Testing
+- 🐍 Learning and building projects with Python and Django
+- ⚙️ Interested in Test Automation and Backend Development
+- ☁️ Exploring DevOps, CI/CD, AWS, and Cloud Infrastructure
+- 🚀 Always learning and building new projects
 
 📫 Reach me at [krishna02092004@gmail.com](mailto:krishna02092004@gmail.com)  
-📍 Based in Mumbai, India · Open to QA Engineer & DevOps opportunities
+📍 Based in Mumbai, India · Open to QA Engineer, Python Developer, and Backend Development opportunities
 
 ---
 
+## 🌐 Socials
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-46a210258/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KrSna_Techie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhkrishnaumeshchandra@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-46a210258/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KrSna_Techie)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhkrishnaumeshchandra@gmail.com)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KrSna02-09&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KrSna02-09&theme=radical&hide_border=false)<br/>
+---
+
+# 💻 Tech Stack
+
+### 🧪 QA & Testing
+
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🐍 Backend & Development
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=KrSna02-09&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=KrSna02-09&theme=radical&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KrSna02-09&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
