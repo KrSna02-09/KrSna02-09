@@ -16,18 +16,18 @@ Building Backend Applications · Automating Workflows · Cloud Infrastructure ·
 ---
 
 ## 👨‍💻 About Me
-I am actively developing my skills as a **Python Developer**, with a focus on **Python, Django, Backend Development, REST APIs, SQL, and Database Management**.
+I am actively developing my skills as a **Python Developer**, with a focus on **Python, FastApi, Backend Development, REST APIs, SQL, and Database Management**.
 
 Alongside Development, I am interested in **DevOps, Automation, CI/CD, Cloud Infrastructure, and AWS**.
 
 - 🔍 QA Engineer with experience in Manual Testing and API Testing
-- 🐍 Learning and building projects with Python and Django
-- ⚙️ Interested in Test Automation and Backend Development
+- 🐍 Learning and building projects with Python and FastApi
+- ⚙️ Interested in Devops and Backend Development
 - ☁️ Exploring DevOps, CI/CD, AWS, and Cloud Infrastructure
 - 🚀 Always learning and building new projects
 
 📫 Reach me at [krishna02092004@gmail.com](mailto:krishna02092004@gmail.com)  
-📍 Based in Mumbai, India · Open to QA Engineer, Python Developer, and Backend Development opportunities
+📍 Based in Mumbai, India · Open to Python Developer, Devops and Backend Development opportunities
 
 ---
 
@@ -41,16 +41,10 @@ Alongside Development, I am interested in **DevOps, Automation, CI/CD, Cloud Inf
 
 # 💻 Tech Stack
 
-### 🧪 QA & Testing
-
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
 ### 🐍 Backend & Development
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,7 +53,7 @@ Alongside Development, I am interested in **DevOps, Automation, CI/CD, Cloud Inf
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 
