@@ -20,7 +20,6 @@ I am actively developing my skills as a **Python Developer**, with a focus on **
 
 Alongside Development, I am interested in **DevOps, Automation, CI/CD, Cloud Infrastructure, and AWS**.
 
-- 🔍 QA Engineer with experience in E2E Testing , API Automation Testing , Automation
 - 🐍 Learning and building projects with Python and FastApi
 - ⚙️ Interested in Devops and Backend Development
 - ☁️ Exploring DevOps, CI/CD, AWS, and Cloud Infrastructure
